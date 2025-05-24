@@ -1,32 +1,13 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+ 
+###
+
+<h1 align="center">Hey there :)</h1>
+
+ 
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pari23367.pari23367&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from New Delhi, India<br><br>🔭 I’m a CS undergrad at IIIT Delhi<br><br>📚 Currently learning Flask, FastAPI, React, and systems programming<br><br>⚡ Interested in full stack development</p>
+<p align="left"> 🔭 I’m a CS undergrad at IIIT Delhi<br><br> ⚡ Interested in full stack development</p>
 
 ###
 
@@ -110,17 +91,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="38" alt="google logo"  />
 </div>
 
-###
 
-<h3 align="left">Stats :</h3>
 
-###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=pari23367&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
