@@ -1,4 +1,7 @@
- 
+<div align="center">
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGFoOGR5NnZvN2JibWRpZTdjZGp6dWQyZ20wc29nanBmMHF2Mmx1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif"  />
+</div>
+
 ###
 
 <h1 align="center">Hey there :)</h1>
@@ -7,7 +10,7 @@
 
 ###
 
-<p align="left"> 🔭 I’m a CS undergrad at IIIT Delhi<br><br> ⚡ Interested in full stack development</p>
+<p align="left"> 🔭 I’m a CS undergrad at IIIT Delhi<br><br>  </p>
 
 ###
 
